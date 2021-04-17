@@ -1,5 +1,5 @@
-# I'm Maran Sowthri Kalailingam
-Software Engineer - Full Stack
+<h1>I'm Maran Sowthri Kalailingam</h1>
+<p>Software Engineer - Full Stack</p>
 
 <a target="_blank" href="https://maransowthri.netlify.app/">
   <img align="left" alt="Maran's Portfolio" width="50px" height="50px" src="https://img.icons8.com/color/48/000000/user-location.png"/>
@@ -19,8 +19,8 @@ Software Engineer - Full Stack
 <a target="_blank" href="https://twitter.com/maransowthri">
   <img align="left" alt="Maran's Twitter" width="50px" height="50px" src="https://img.icons8.com/color/48/000000/twitter.png" />
 </a>
-<br />
-## Side Projects
+
+<h3>Side Projects</h3>
 - [Techy Traders](https://www.techytraders.com/)
 - [Developer Quiz](https://developerquiz.netlify.app/) 
 - [Blog](https://maransowthri.hashnode.dev/)

@@ -21,8 +21,20 @@
 </a>
 
 <h3>Side Projects</h3>
-- [Techy Traders](https://www.techytraders.com/)
-- [Developer Quiz](https://developerquiz.netlify.app/) 
-- [Blog](https://maransowthri.hashnode.dev/)
-- [Karan's Wedding](https://karanswedding.netlify.app/)
-- [Portfolio](https://maransowthri.netlify.app/)
+<ul>
+  <li>
+    <a target="_blank" href="https://www.techytraders.com">Techy Traders</a>
+  </li>
+  <li>
+    <a target="_blank" href="https://developerquiz.netlify.app/">Developer Quiz</a>
+  </li>
+  <li>
+    <a target="_blank" href="https://maransowthri.hashnode.dev/">Blog</a>
+  </li>
+  <li>
+    <a target="_blank" href="https://karanswedding.netlify.app/">Karan's Wedding</a>
+  </li>
+  <li>
+    <a target="_blank" href="https://maransowthri.netlify.app/">Portfolio</a>
+  </li>
+</ul>

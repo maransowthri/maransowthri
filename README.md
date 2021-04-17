@@ -1,4 +1,4 @@
-## I'm Maran Sowthri Kalailingam
+# I'm Maran Sowthri Kalailingam
 Software Engineer - Full Stack
 
 <a target="_blank" href="https://maransowthri.netlify.app/">
@@ -21,7 +21,7 @@ Software Engineer - Full Stack
 </a>
 <br />
 
-### Side Projects
+## Side Projects
 - [Techy Traders](https://www.techytraders.com/)
 - [Developer Quiz](https://developerquiz.netlify.app/) 
 - [Blog](https://maransowthri.hashnode.dev/)

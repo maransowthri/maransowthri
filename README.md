@@ -1,4 +1,4 @@
-# Hey There 🙏 I'm Maran !
+# Hey There ✌️ I'm Maran !
 <p>Software Engineer - Full Stack</p>
 
 <a href="https://maransowthri.netlify.app/">

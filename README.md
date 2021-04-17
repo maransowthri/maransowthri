@@ -1,4 +1,4 @@
-### I'm Maran Sowthri Kalailingam
+## I'm Maran Sowthri Kalailingam
 ### Software Engineer - Full Stack
 
 <a target="_blank" href="https://maransowthri.netlify.app/">

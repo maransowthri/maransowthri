@@ -19,7 +19,7 @@
 <a target="_blank" href="https://twitter.com/maransowthri">
   <img align="left" alt="Maran's Twitter" width="50px" height="50px" src="https://img.icons8.com/color/48/000000/twitter.png" />
 </a>
-<br />
+<br/>
 
 <ul>
   <h2>Side Projects</h2>

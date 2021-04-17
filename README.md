@@ -21,8 +21,8 @@
 </a>
 <br/>
 
+## Side Projects
 <ul>
-  <h2>Side Projects</h2>
   <li>
     <a target="_blank" href="https://www.techytraders.com">Techy Traders</a>
   </li>

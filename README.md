@@ -19,9 +19,7 @@
 <a target="_blank" href="https://twitter.com/maransowthri">
   <img align="left" alt="Maran's Twitter" width="50px" height="50px" src="https://img.icons8.com/color/48/000000/twitter.png" />
 </a>
-<br/>
 
-## Side Projects
 <ul>
   <li>
     <a target="_blank" href="https://www.techytraders.com">Techy Traders</a>

@@ -8,7 +8,7 @@
   <img align="left" alt="Maran's LinkdeIn" width="50px" height="50px" src="https://img.icons8.com/color/48/000000/linkedin.png"/>
 </a>
 <a href="https://www.hackerrank.com/maransowthri">
-  <img align="left" alt="Maran's Hackerrank" width="50px" height="50px"  src="https://img.icons8.com/windows/50/000000/hackerrank.png"/>
+  <img align="left" alt="Maran's Hackerrank" width="50px" height="50px"  src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.iconfinder.com%2Ficons%2F4373234%2Fhackerrank_logo_logos_icon&psig=AOvVaw1nkzl874wD-r8f8wXnqsCo&ust=1628053352383000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCMjvncaJlPICFQAAAAAdAAAAABAD"/>
 </a>
 <a href="https://github.com/maransowthri">
   <img align="left" alt="Maran's Github" width="50px" height="50px" src="https://img.icons8.com/color/48/000000/github.png"/>

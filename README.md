@@ -1,7 +1,7 @@
 # Hey There ✌️ I'm Maran !
 <p>Software Engineer - Full Stack</p>
 
-<a href="https://maransowthri.dev/">
+<a title="Portfolio" href="https://maransowthri.dev/">
   <img align="left" alt="Maran's Portfolio" width="50px" height="50px" src="https://img.icons8.com/color/48/000000/user-location.png"/>
 </a>
 <a href="https://www.linkedin.com/in/maransowthri/">

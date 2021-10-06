@@ -10,11 +10,14 @@
 <a href="https://www.hackerrank.com/maransowthri">
   <img align="left" alt="Maran's Hackerrank" width="50px" height="50px"  src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/160_Hackerrank_logo_logos-512.png"/>
 </a>
-<a href="https://github.com/maransowthri">
-  <img align="left" alt="Maran's Github" width="50px" height="50px" src="https://img.icons8.com/color/48/000000/github.png"/>
-</a>
 <a href="https://stackoverflow.com/users/9596111/maran-sowthri">
   <img align="left" alt="Maran's StackOverflow" width="50px" height="50px" src="https://img.icons8.com/color/48/000000/stackoverflow.png" />
+</a>
+<a href="https://blog.maransowthri.dev/">
+  <img align="left" alt="Maran's Blog" width="50px" height="50px" src="https://img.icons8.com/color/48/000000/google-blog-search.png"/>
+</a>
+<a href="https://timeline.maransowthri.dev">
+  <img align="left" alt="Maran's Timeline" width="50px" height="50px" src="https://img.icons8.com/external-kiranshastry-lineal-color-kiranshastry/64/000000/external-timeline-business-and-management-kiranshastry-lineal-color-kiranshastry.png"/>
 </a>
 <a href="https://twitter.com/maransowthri">
   <img align="left" alt="Maran's Twitter" width="50px" height="50px" src="https://img.icons8.com/color/48/000000/twitter.png" />

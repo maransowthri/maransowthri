@@ -1,4 +1,4 @@
-# Hey There ✌️ I'm Maran !
+# Hey There, I'm Maran ✌️
 <p>Software Engineer - Full Stack</p>
 
 <a title="Portfolio" href="https://maransowthri.dev/">

@@ -25,6 +25,9 @@
 <a title="Twitter" href="https://twitter.com/maransowthri">
   <img align="left" alt="Maran's Twitter" width="50px" height="50px" src="https://img.icons8.com/color/48/000000/twitter.png" />
 </a>
+<a title="Resume" href='https://drive.google.com/file/d/1UGiA_FRzKbovH3c6J1vyK_VUShXbL4uk/view?usp=sharing'>
+  <img align="left" alt="Maran's Resume" width="50px" height="50px"  src="https://img.icons8.com/external-itim2101-lineal-color-itim2101/64/000000/external-resume-human-resources-itim2101-lineal-color-itim2101-1.png"/>
+</a>
 <br />
 <br />
 

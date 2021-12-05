@@ -5,10 +5,13 @@
   <img align="left" alt="Maran's Portfolio" width="50px" height="50px" src="https://img.icons8.com/color/48/000000/user-location.png"/>
 </a>
 <a title="LinkedIn" href="https://www.linkedin.com/in/maransowthri/">
-  <img align="left" alt="Maran's LinkdeIn" width="50px" height="50px" src="https://img.icons8.com/color/48/000000/linkedin.png"/>
+  <img align="left" alt="Maran's LinkdeIn Profile" width="50px" height="50px" src="https://img.icons8.com/color/48/000000/linkedin.png"/>
 </a>
 <a title="Hackerrank" href="https://www.hackerrank.com/maransowthri">
-  <img align="left" alt="Maran's Hackerrank" width="50px" height="50px"  src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/160_Hackerrank_logo_logos-512.png"/>
+  <img align="left" alt="Maran's Hackerrank Profile" width="50px" height="50px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/160_Hackerrank_logo_logos-512.png"/>
+</a>
+<a title="LeetCode" href="https://www.leetcode.com/maransowthri">
+  <img align="left" alt="Maran's LeetCode Profile" width="50px" height="50px" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png"/>
 </a>
 <a title="StackOverflow" href="https://stackoverflow.com/users/9596111/maran-sowthri">
   <img align="left" alt="Maran's StackOverflow" width="50px" height="50px" src="https://img.icons8.com/color/48/000000/stackoverflow.png" />

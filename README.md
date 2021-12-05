@@ -51,5 +51,5 @@
   - This site has been integrated with Hashnode.
  
 - [Timeline](https://timeline.maransowthri.dev/)
-  - My personal feed where I'll be sharing my highlights here.
+  - My personal feed where I'll be sharing my highlights.
   - This site has been integrated with Polywork.

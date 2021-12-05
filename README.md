@@ -1,5 +1,5 @@
 # Hey There, I'm Maran ✌️
-<p>Software Engineer - Full Stack</p>
+<p>As a professional Software Engineer, I love researching, designing, implementing, and managing software programs. I help companies to build complex web applications serving millions of users with modern technologies.</p>
 
 <a title="Portfolio" href="https://maransowthri.dev/">
   <img align="left" alt="Maran's Portfolio" width="50px" height="50px" src="https://img.icons8.com/color/48/000000/user-location.png"/>

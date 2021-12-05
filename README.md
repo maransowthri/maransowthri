@@ -7,6 +7,9 @@
 <a title="LinkedIn" href="https://www.linkedin.com/in/maransowthri/">
   <img align="left" alt="Maran's LinkdeIn Profile" width="50px" height="50px" src="https://img.icons8.com/color/48/000000/linkedin.png"/>
 </a>
+<a title="Resume" href='https://drive.google.com/file/d/1UGiA_FRzKbovH3c6J1vyK_VUShXbL4uk/view?usp=sharing'>
+  <img align="left" alt="Maran's Resume" width="50px" height="50px"  src="https://img.icons8.com/external-itim2101-lineal-color-itim2101/64/000000/external-resume-human-resources-itim2101-lineal-color-itim2101-1.png"/>
+</a>
 <a title="Hackerrank" href="https://www.hackerrank.com/maransowthri">
   <img align="left" alt="Maran's Hackerrank Profile" width="50px" height="50px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/160_Hackerrank_logo_logos-512.png"/>
 </a>
@@ -24,9 +27,6 @@
 </a>
 <a title="Twitter" href="https://twitter.com/maransowthri">
   <img align="left" alt="Maran's Twitter" width="50px" height="50px" src="https://img.icons8.com/color/48/000000/twitter.png" />
-</a>
-<a title="Resume" href='https://drive.google.com/file/d/1UGiA_FRzKbovH3c6J1vyK_VUShXbL4uk/view?usp=sharing'>
-  <img align="left" alt="Maran's Resume" width="50px" height="50px"  src="https://img.icons8.com/external-itim2101-lineal-color-itim2101/64/000000/external-resume-human-resources-itim2101-lineal-color-itim2101-1.png"/>
 </a>
 <br />
 <br />

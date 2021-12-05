@@ -47,9 +47,9 @@
   - Technologies Used: Python, AWS Lambda & Twitter API
  
 - [Blog](https://blog.maransowthri.dev/)
-  - This is my personal blog where I'll be sharing some of my professional and personal experiance.
-  - This site has been integrated Hashnode.
+  - My personal blog where I'll be sharing some of my professional and personal experiance.
+  - This site has been integrated with Hashnode.
  
 - [Timeline](https://timeline.maransowthri.dev/)
-  - This is my personal feed where I'll be sharing my highlights here.
-  - This site has been integrated Polywork.
+  - My personal feed where I'll be sharing my highlights here.
+  - This site has been integrated with Polywork.

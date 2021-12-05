@@ -33,10 +33,6 @@
 - [Developer Quiz](https://developerquiz.netlify.app/)
   - Developer Quiz is a simple programming quiz application (includes Python, JavaScript, React, etc.). 
   - Technologies Used: React, Redux, Firebase
-
-- [Blog](https://blog.maransowthri.dev/)
-  - This is my personal blog where I'll be sharing some of my professional and personal experiance.
-  - This site has been integrated Hashnode.
  
 - [Karan's Wedding](https://karanswedding.netlify.app/)
   - A static wedding info site (includes events, maps, bio etc) with HTML, pure CSS & vanilla JavaScript.
@@ -45,7 +41,15 @@
 - [Portfolio](https://maransowthri.dev/)
   - A static portfolio site designed with HTML, Sass & Vanilla JavaScript.
   - Technologies Used: HTML, CSS & JS
-  
+ 
+- [Twitter Bot](https://twitter.com/bot_for_devs)
+  - A bot that gathers trending information about programming by surfing the internet and post it as a tweet for every 8 hours
+  - Technologies Used: Python, AWS Lambda & Twitter API
+ 
+- [Blog](https://blog.maransowthri.dev/)
+  - This is my personal blog where I'll be sharing some of my professional and personal experiance.
+  - This site has been integrated Hashnode.
+ 
 - [Timeline](https://timeline.maransowthri.dev/)
   - This is my personal feed where I'll be sharing my highlights here.
   - This site has been integrated Polywork.

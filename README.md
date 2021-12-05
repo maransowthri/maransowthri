@@ -34,7 +34,7 @@
   - Developer Quiz is a simple programming quiz application (includes Python, JavaScript, React, etc.). 
   - Technologies Used: React, Redux, Firebase
  
-- [Karan's Wedding](https://karanswedding.netlify.app/)
+- [Justin's Wedding](https://karanswedding.netlify.app/)
   - A static wedding info site (includes events, maps, bio etc) with HTML, pure CSS & vanilla JavaScript.
   - Technologies Used: HTML, CSS & JS
 

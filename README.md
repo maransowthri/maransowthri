@@ -2,7 +2,7 @@
 <p>As a professional Software Engineer, I love researching, designing, implementing, and managing software programs. I help companies to build complex applications serving millions of users with modern technologies.</p>
 
 <a title="Portfolio" href="https://maransowthri.dev/">
-  <img align="left" alt="Maran's Portfolio" width="50px" height="50px" src="https://img.icons8.com/color/48/000000/user-location.png" />
+  <img align="left" alt="Maran's Portfolio" width="50px" height="50px" src="https://img.icons8.com/color/48/000000/user-male.png" />
 </a>
 <a title="LinkedIn" href="https://www.linkedin.com/in/maransowthri/">
   <img align="left" alt="Maran's LinkdeIn Profile" width="50px" height="50px" src="https://img.icons8.com/color/48/000000/linkedin.png" />

@@ -4,6 +4,9 @@
 <a title="Portfolio" href="https://maransowthri.dev/">
   <img align="left" alt="Maran's Portfolio" width="50px" height="50px" src="https://img.icons8.com/color/48/000000/user-location.png" />
 </a>
+<a title="Digital Badges" href="https://www.credly.com/users/maran-sowthri-kalailingam">
+  <img align="left" alt="Maran's Digital Badges" width="50px" height="50px" src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/000000/external-badge-achievements-flaticons-lineal-color-flat-icons.png" />
+</a>
 <a title="LinkedIn" href="https://www.linkedin.com/in/maransowthri/">
   <img align="left" alt="Maran's LinkdeIn Profile" width="50px" height="50px" src="https://img.icons8.com/color/48/000000/linkedin.png" />
 </a>

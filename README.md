@@ -39,6 +39,10 @@
   - Techy Traders offers simple trading tools (Strategy Builder & Virtual trading etc). 
   - Technologies Used: Django, PostgreSQL, AWS
 
+- [naming-utils](https://pypi.org/project/naming-utils/)
+  - naming-utils is a simple PyPi utility that helps to generate unique names with timestamps.
+  - Technologies Used: Python, PyPi, Pip
+
 - [Developer Quiz](https://developerquiz.netlify.app/)
   - Developer Quiz is a simple programming quiz application (includes Python, JavaScript, React, etc.). 
   - Technologies Used: React, Redux, Firebase

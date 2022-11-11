@@ -35,6 +35,10 @@
 <br />
 
 ## Side Projects
+- [Maran's Habits](https://maransowthri.super.site/)
+  - Tracks Maran's real time habits.
+  - Technologies Used: Notion
+
 - [Techy Traders](https://techytraders.herokuapp.com/)
   - Techy Traders offers simple trading tools (Strategy Builder & Virtual trading etc). 
   - Technologies Used: Django, PostgreSQL, AWS

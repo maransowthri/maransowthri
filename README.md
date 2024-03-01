@@ -10,9 +10,6 @@
 <a title="LinkedIn" href="https://www.linkedin.com/in/maransowthri/">
   <img align="left" alt="Maran's LinkdeIn Profile" width="50px" height="50px" src="https://img.icons8.com/color/48/000000/linkedin.png" />
 </a>
-<a title="Resume" href='https://drive.google.com/drive/folders/1NvDi9PynGx_suavTPvo1C5n-ZMgxRzhA'>
-  <img align="left" alt="Maran's Resume" width="50px" height="50px"  src="https://img.icons8.com/external-itim2101-lineal-color-itim2101/64/000000/external-resume-human-resources-itim2101-lineal-color-itim2101-1.png" />
-</a>
 <a title="Hackerrank" href="https://www.hackerrank.com/maransowthri">
   <img align="left" alt="Maran's Hackerrank Profile" width="50px" height="50px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/160_Hackerrank_logo_logos-512.png" />
 </a>
@@ -28,30 +25,16 @@
 <a title="Timeline" href="https://timeline.maransowthri.dev">
   <img align="left" alt="Maran's Timeline" width="50px" height="50px" src="https://img.icons8.com/external-kiranshastry-lineal-color-kiranshastry/64/000000/external-timeline-business-and-management-kiranshastry-lineal-color-kiranshastry.png" />
 </a>
-<a title="Twitter" href="https://twitter.com/maransowthri">
-  <img align="left" alt="Maran's Twitter" width="50px" height="50px" src="https://img.icons8.com/color/48/000000/twitter.png" />
-</a>
 <br />
 <br />
 
 ## Side Projects
-- [Maran's Habits](https://maransowthri.super.site/)
-  - Tracks Maran's real time habits.
-  - Technologies Used: Notion
-
-- [Techy Traders](https://techytraders.herokuapp.com/)
-  - Techy Traders offers simple trading tools (Strategy Builder & Virtual trading etc). 
-  - Technologies Used: Django, PostgreSQL, AWS
-
-- [naming-utils](https://pypi.org/project/naming-utils/)
-  - naming-utils is a simple PyPi utility that helps to generate unique names with timestamps.
-  - Technologies Used: Python, PyPi, Pip
 
 - [Developer Quiz](https://developerquiz.netlify.app/)
   - Developer Quiz is a simple programming quiz application (includes Python, JavaScript, React, etc.). 
   - Technologies Used: React, Redux, Firebase
  
-- [Justin's Wedding](https://karanswedding.netlify.app/)
+- [Karan's Wedding](https://karanswedding.netlify.app/)
   - A static wedding info site (includes events, maps, bio etc) with HTML, pure CSS & vanilla JavaScript.
   - Technologies Used: HTML, CSS & JS
 
@@ -66,7 +49,7 @@
 - [Blog](https://blog.maransowthri.dev/)
   - Personal blog where I'll be sharing some of my professional and personal experience.
   - This site has been integrated with Hashnode.
- 
+
 - [Timeline](https://timeline.maransowthri.dev/)
   - Personal feed where I'll be sharing my highlights.
   - This site has been integrated with Polywork.
